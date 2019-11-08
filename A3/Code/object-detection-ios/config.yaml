@@ -1,0 +1,4 @@
+buckets:
+  training: wheelchair-users-detection
+  output: wheelchair-users-detection
+name: wheelchair-users-detection
